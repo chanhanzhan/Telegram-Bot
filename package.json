@@ -1,0 +1,23 @@
+{
+  "name": "telegram_bot",
+  "version": "1.0.1",
+  "type": "module",
+  "description": "telegram机器人",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MapleLeaf",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "https-proxy-agent": "^7.0.6",
+    "log4js": "^6.9.1",
+    "socks-proxy-agent": "8.0.5",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.6",
+    "telegraf": "^4.12.2",
+    "uuid": "^11.0.5",
+    "yaml": "^2.3.4"
+  }
+}
